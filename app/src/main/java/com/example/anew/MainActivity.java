@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
         HashSet<String> has=new HashSet<String>();
         has.add("123");
        // JPushInterface.setTags(MainActivity.this,1,has);*/
-
         //添加一段注释测试一下
         String s="123456";
     }
