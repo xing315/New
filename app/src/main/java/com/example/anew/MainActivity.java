@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
         JPushInterface.setDebugMode(true);
         JPushInterface.init(this);
         JPushInterface.setAlias(MainActivity.this,"J0096513",null);
-        HashSet<String> has=new HashSet<String>();
-        has.add("123");
+       /* HashSet<String> has=new HashSet<String>();
+        has.add("123");*/
        // JPushInterface.setTags(MainActivity.this,1,has);*/
         //添加一段注释测试一下
         String s="123456";
